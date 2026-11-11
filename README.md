@@ -23,15 +23,16 @@ I'm particularly interested in computer vision, satellite imagery, machine learn
 
 **Tools:** Git, Jupyter, VS Code, Linux
 
+## 🔬 Research Experience
+
+- **HybridIoT – Environmental Data Estimation:** Research internship at IRIT (Université de Toulouse), contributing to a multi-agent system for reconstructing missing environmental sensor measurements through cooperation between sensors.
+
+- **AI Coding Assistants – Biometric Study:** Bachelor's thesis research conducted in collaboration between the University of Bari and the IT University of Copenhagen. Investigated the impact of AI-assisted programming on cognitive load and stress using EEG, eye-tracking, physiological signals, and statistical analysis.
+
 ## 📂 Projects
 
-### Research & AI
+- **EvilHospice:** Small video game developed as part of a university Game Development course.
 
-- **HybridIoT – Environmental Data Estimation:** Research internship at IRIT focused on a multi-agent system for reconstructing missing environmental sensor measurements.
-- **AI Coding Assistants – Biometric Study:** Research project investigating the impact of AI-assisted programming on cognitive load and stress through EEG, eye-tracking, and physiological measurements.
 - **CheckYourSmile – Keyphrase Extraction:** NLP project comparing statistical, graph-based, embedding-based, and hybrid approaches to keyphrase extraction and ranking.
 
-### Software Development
-
-- **EvilHospice:** Small video game developed as part of a university Game Development course.
-- **BLECallApp:** Personal project exploring communication between a Bluetooth Low Energy device and a smartphone application.
+- **BLECallApp:** Personal project exploring communication between a Bluetooth Low Energy device and an Android smartphone application.
